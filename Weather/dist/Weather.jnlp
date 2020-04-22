@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Weather.jnlp">
+  <information>
+    <title>Weather</title>
+    <vendor>NEDL</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Weather.jar" size="8024" download="eager" />
+    <jar href="lib\org.json.jar" size="48796" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="weather.WeatherView"  name="Weather" />
+  <update check="always"/>
+</jnlp>

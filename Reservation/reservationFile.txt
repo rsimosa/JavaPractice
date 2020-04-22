@@ -1,0 +1,1 @@
+1 Friday 150.0 0 Mike1 Saturday 15.0 0 Michael1 sunday 20.0 0 as2 Friday 50.0 0 Scott2 Saturday 30.0 0 qw2 Sunday 35.0 0 lk

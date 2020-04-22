@@ -1,0 +1,4 @@
+Painting 1500000 painting.jfif Jhon
+Autograph 100000 autograph.jfif Christian
+Document 22000 document.jfif Lisa
+Watch 2200 watch.jfif Jess

@@ -1,0 +1,6 @@
+1 Friday 10.0
+1 Saturday 15.0 
+1 sunday 20.0  
+2 Friday 25.0  
+2 Saturday 30.0 
+2 Sunday 35.0 

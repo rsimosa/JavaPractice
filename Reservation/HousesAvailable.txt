@@ -1,0 +1,3 @@
+1 sunday 20.0 1 Not rented
+2 Saturday 30.0 1 Not rented
+2 Sunday 35.0 1 Not rented

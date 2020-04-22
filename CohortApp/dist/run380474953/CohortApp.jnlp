@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="CohortApp.jnlp">
+  <information>
+    <title>CohortApp</title>
+    <vendor>NEDL</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="CohortApp.jar" size="12409" download="eager" />
+    <jar href="lib\json-simple-2.1.2.jar" size="57607" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="cohortapp.CohortView"  name="CohortApp" />
+  <update check="always"/>
+</jnlp>

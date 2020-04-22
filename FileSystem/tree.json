@@ -1,0 +1,56 @@
+[
+	{
+		"parentFolderId": null,
+		"folderId": "1",
+		"isFolder": "1",
+		"name": "ROOT"
+	},
+	{
+		"parentFolderId": "1",
+		"folderId": "2",
+		"isFolder": "1",
+		"name": "Category A"
+	},
+	{
+		"parentFolderId": "2",
+		"folderId": "3",
+		"isFolder": "1",
+		"name": "A1"
+	},
+	{
+		"parentFolderId": "3",
+		"folderId": "4",
+		"isFolder": "0",
+		"name": "foo-1"
+	},
+	{
+		"parentFolderId": "3",
+		"folderId": "5",
+		"isFolder": "0",
+		"name": "foo-2"
+	},
+	{
+		"parentFolderId": "3",
+		"folderId": "6",
+		"isFolder": "0",
+		"name": "foo-3"
+	},
+	{
+		"parentFolderId": "1",
+		"folderId": "7",
+		"isFolder": "0",
+		"name": "foobars"
+	},
+	{
+		"parentFolderId": "1",
+		"folderId": "8",
+		"isFolder": "1",
+		"name": "Documents"
+	},
+	{
+		"parentFolderId": "8",
+		"folderId": "9",
+		"isFolder": "0",
+		"name": "2020_taxes"
+	}
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="244.0" prefWidth="487.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="soccergame.FXMLDocumentController">
+     <children>
+        <Button fx:id="winnerButton" layoutX="67.0" layoutY="178.0" onAction="#handleButtonAction" text="Who Won?!" />
+      <Button fx:id="gameScoreButton" layoutX="200.0" layoutY="178.0" onAction="#handleButtonAction" text="Game Score" />
+      <Button fx:id="goalsWonByButton" layoutX="313.0" layoutY="178.0" onAction="#handleButtonAction" text="Won By X Goals" />
+        <Label fx:id="result" alignment="CENTER" layoutX="43.0" layoutY="208.0" minHeight="16" minWidth="0.0" prefHeight="17.0" prefWidth="378.0" textAlignment="CENTER" />
+      <TextField fx:id="tfTeam1Name" layoutX="67.0" layoutY="45.0" />
+      <TextField fx:id="tfTeam2Name" layoutX="265.0" layoutY="45.0" />
+      <TextField fx:id="tfTeam1Score" layoutX="67.0" layoutY="116.0" />
+      <TextField fx:id="tfTeam2Score" layoutX="264.0" layoutY="116.0" />
+      <Label layoutX="92.0" layoutY="14.0" text="Team One Name" />
+      <Label layoutX="295.0" layoutY="85.0" text="Team Two Score" />
+      <Label layoutX="93.0" layoutY="85.0" text="Team One Score" />
+      <Label layoutX="294.0" layoutY="14.0" text="Team Two Name" />
+    </children>
+</AnchorPane>
